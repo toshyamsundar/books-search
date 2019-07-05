@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/toshyamsundar/books-search/static/css/main.2cce8147.chunk.css",
+    "main.js": "/toshyamsundar/books-search/static/js/main.86165448.chunk.js",
+    "main.js.map": "/toshyamsundar/books-search/static/js/main.86165448.chunk.js.map",
+    "runtime~main.js": "/toshyamsundar/books-search/static/js/runtime~main.93504289.js",
+    "runtime~main.js.map": "/toshyamsundar/books-search/static/js/runtime~main.93504289.js.map",
+    "static/js/2.b41502e9.chunk.js": "/toshyamsundar/books-search/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/toshyamsundar/books-search/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/toshyamsundar/books-search/index.html",
+    "precache-manifest.2b70450b24036ccbc25517166c048cbd.js": "/toshyamsundar/books-search/precache-manifest.2b70450b24036ccbc25517166c048cbd.js",
+    "service-worker.js": "/toshyamsundar/books-search/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/toshyamsundar/books-search/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/toshyamsundar/books-search/static/media/logo.5d5d9eef.svg"
+  }
+}
